@@ -5,5 +5,7 @@ Bu proje, Bursa Teknik Üniversitesi BLM-111 kodlu Algoritmalar ve Programlama d
 Oyun, bir baş kahraman (protagonist) olan ozanın (bard) başından geçen maceraları anlatmaktadır. Bu maceraların ne olduğu ve nasıl yöneteceğiniz yani kısacası senaryosu sizin yaratıcılığınıza kalmıştır.
 Oyunun başında (kod çalıştırıldığında ilk olarak) kullanıcıdan baş kahraman olan ozanın adı ve kullandığı çalgının adı istenmektedir. Ardından yapılacak tüm işlemler bir sonsuz döngü içerisine alınacaktır ve kullanıcının çıkış seçeneğini seçmemesi halinde sürekli olarak tekrar edecektir. 
 
+Dipnot: Proje ödevi, ödevi kontrol eden laboratuvar hocalarının talepleri sonucu 2 kişi ile yapılmıştır. Buradan proje ödevinin yapım sürecine katkılarından ötürü Abdullah Çelik'e teşekkürlerimi iletmiş olayım. 
+
 
 
