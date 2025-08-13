@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734874497 source:c:\users\cilyu\desktop\projeler\proje_odevi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdarg.h>
+	<time.h>
+
