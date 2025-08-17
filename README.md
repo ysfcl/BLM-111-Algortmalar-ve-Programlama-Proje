@@ -1,11 +1,21 @@
-﻿# Algoritmalar ve Programlama Proje Ödevi
+﻿# 🎵Algoritmalar ve Programlama Proje Ödevi
 Bu proje, Bursa Teknik Üniversitesi BLM-111 kodlu Algoritmalar ve Programlama dersi kapsamında proje ödevi olarak hazırlanmıştır.
 
-# Proje Konusu
-Oyun, bir baş kahraman (protagonist) olan ozanın (bard) başından geçen maceraları anlatmaktadır. Bu maceraların ne olduğu ve nasıl yöneteceğiniz yani kısacası senaryosu sizin yaratıcılığınıza kalmıştır.
-Oyunun başında (kod çalıştırıldığında ilk olarak) kullanıcıdan baş kahraman olan ozanın adı ve kullandığı çalgının adı istenmektedir. Ardından yapılacak tüm işlemler bir sonsuz döngü içerisine alınacaktır ve kullanıcının çıkış seçeneğini seçmemesi halinde sürekli olarak tekrar edecektir. 
+# 🚀Proje Konusu
+-Oyunun başında kullanıcıdan ozanın adı ve kullandığı çalgının adı alınır.
+-Tüm oyun mekanikleri bir sonsuz döngü içerisinde çalışır.
+-Kullanıcı çıkış seçeneğini seçene kadar oyun devam eder.
+-Senaryo ve maceralar tamamen yaratıcılığa dayalıdır. 
 
-Dipnot: Proje ödevi, ödevi kontrol eden laboratuvar hocalarının talepleri sonucu 2 kişi ile yapılmıştır. Buradan proje ödevinin yapım sürecine katkılarından ötürü Abdullah Çelik'e teşekkürlerimi iletmiş olayım. 
+# 📌Çalıştırma
+-Projeyi klonlayın veya indirin.
+-Kodları derleyin (gcc proje.c -o proje gibi).
+-Çalıştırın ve ozanın maceralarına eşlik edin.
+
+# Katkıda Bulunanlar
+Bu proje, laboratuvar hocalarının yönlendirmeleri sonucu 2 kişi tarafından geliştirilmiştir.
+👤 Yusuf Çelik
+👤 Abdullah Çelik
 
 
 
