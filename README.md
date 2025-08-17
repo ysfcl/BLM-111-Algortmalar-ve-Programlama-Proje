@@ -13,9 +13,9 @@ Kodları derleyin (gcc proje.c -o proje gibi).
 Çalıştırın ve ozanın maceralarına eşlik edin.
 
 # Katkıda Bulunanlar
-Bu proje, laboratuvar hocalarının yönlendirmeleri sonucu 2 kişi tarafından geliştirilmiştir.
-👤 Yusuf Çelik
-👤 Abdullah Çelik
+Bu proje, laboratuvar hocalarının yönlendirmeleri sonucu 2 kişi tarafından geliştirilmiştir.<br/>
+👤 Yusuf Çelik</br>
+👤 Abdullah Çelik<br/>
 
 
 
